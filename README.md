@@ -23,3 +23,4 @@
 #      import datetime
 #      from data.CashMaster import CASH_MASTER
 #      """
+# 3) run "xo.bat" again and play
